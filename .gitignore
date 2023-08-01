@@ -1,0 +1,15 @@
+# Local build
+/.build
+/dist
+/make.bat
+
+# Clangd cache
+/.cache
+
+# Vistual Studio:
+/.vs
+/out
+/CMakeSettings.json
+
+# Vistual Studio Code:
+/.vscode

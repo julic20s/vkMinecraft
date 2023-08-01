@@ -1,0 +1,10 @@
+{
+    "faces" : {
+        "north": "textures/block/grass_block_side.png",
+        "south": "textures/block/grass_block_side.png",
+        "west": "textures/block/grass_block_side.png",
+        "east": "textures/block/grass_block_side.png",
+        "top": "textures/block/grass_block_top.png",
+        "bottom": "textures/block/dirt.png"
+    }
+}
